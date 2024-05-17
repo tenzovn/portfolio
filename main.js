@@ -4,8 +4,8 @@ const admin = {
 }
 
 const links = {
-    fb: 'https://www.facebook.com/engqunphug',
-    ig: 'https://Instagram.com/engqunphug' ,
+    fb: 'https://www.facebook.com/enqungphug',
+    ig: 'https://Instagram.com/enqungphug' ,
     github: 'https://github.com/tenzovn' ,
     linkedin: 'https://www.linkedin.com/in/enqungphug/',
 }
