@@ -1,8 +1,3 @@
-const admin = {
-    username: 'tenzovn',
-    password: 'anhdaik110'
-}
-
 const links = {
     fb: 'https://www.facebook.com/enqungphug',
     ig: 'https://Instagram.com/enqungphug' ,
